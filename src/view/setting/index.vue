@@ -8,7 +8,7 @@
       <div class="right" @click="showModel">
         <div>
           <div class="name">{{loginuser.username}}</div>
-          <div>ID：{{loginuser.id}}</div>
+          <div>ID:{{loginuser.id}}</div>
         </div>
         <van-icon name="arrow" />
       </div>
